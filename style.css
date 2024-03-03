@@ -102,9 +102,8 @@ body .letter-wrapper .letter-content header .letter-ref {
   justify-content: center;
   flex-direction: column;
   overflow: hidden;
-  
 }
-body .letter-wrapper .letter-content header .letter-ref .letter-align{
+body .letter-wrapper .letter-content header .letter-ref .letter-align {
   display: flex;
   align-items: center;
   justify-content: center;
