@@ -54,19 +54,22 @@ body .letter-wrapper .letter-content header {
   height: 55mm;
   border-bottom: 13mm solid rgba(0, 0, 0, 0.811);
   gap: 8mm;
+  position: relative;
+  /* background-color: cyan; */
 }
 body .letter-wrapper .letter-content header .letter-org-logo {
   font-weight: bold;
   position: absolute;
   left: 15mm;
-  top: 10mm;
+  top: 5mm;
   width: 100%;
   height: 100%;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 body .letter-wrapper .letter-content header .letter-org-logo img {
-  width: 30mm;
-  height: 20mm;
+  width: 40mm;
+  height: auto;
+ 
 }
 body .letter-wrapper .letter-content header .letter-org-name {
   /* font-weight: bold; */
